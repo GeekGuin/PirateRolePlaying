@@ -21,7 +21,7 @@ Melee //Espadas (req 2 str + 1 dex)
 
 Gunfire //Pistolas (req 3 dex):
 
-2-
+2- Mejora de punteria (pas) (exito 6+)
 3- Disparo a la cabeza (pas) (crit con 9+)
 4- Dual Weild (pas) (solo pistolas) (cada pistola tiene exito separado)
 5- Doble disparo (act) (8+) (si se tienen 2 pistolas, son 4d10 de daño)
