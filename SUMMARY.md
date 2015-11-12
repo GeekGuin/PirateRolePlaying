@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Rules](Rules/rules1.md)
-* Habilidades/Stats
+* [Habilidades/Stats](habilidadesstats.md)
 
