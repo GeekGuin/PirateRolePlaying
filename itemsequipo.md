@@ -10,5 +10,9 @@ Mosquetes // 2 manos
 
 Espadones // 2 manos
 
+Escudos // 1 mano
+
+
+
 
 
