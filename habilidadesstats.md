@@ -28,10 +28,10 @@
   5. lorem ipsum
 
 - RopeHandling //Cuerdas (req 2 dex + 1 int) (CC. Amarrar stunea)
- 2.
- 3.
- 4.
- 5.
+ 2. lorem
+ 3. ipsum
+ 4. lorem
+ 5. ipsum
 
 Shields //Escudos (req 1 str + 2 sta) (Chance de bloqueo/parry)
 
