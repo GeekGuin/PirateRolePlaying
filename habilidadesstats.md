@@ -30,3 +30,5 @@ HABILIDADES FUERA DE PELEA (5 pts regalados) (5 * punto adicional)
 Investigación O O O O O
 Percepción O O O O O
 Intimidación O O O O O
+Negociación O O O O O (Unicamente para comprar)
+
