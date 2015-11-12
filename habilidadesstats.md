@@ -12,6 +12,11 @@ STATS (4 pts regalados) (10 * punto adicional)
 
 HABILIDADES PELEA (2 pts regalados) (7 * punto adicional)
 
+
+
+Habilidades pasivas (no se suelta dado)
+Habilidades activas (Se suelta dado y se mide exito)
+
 Melee //Espadas (req 2 str + 1 dex)
 
 Gunfire //Pistolas (req 3 dex):
@@ -19,7 +24,7 @@ Gunfire //Pistolas (req 3 dex):
 2-
 3-
 4-
-5- Doble disparo (act)
+5- Doble disparo (act) (8+)
 
 Brawl //Puñetazos (req 3 str)
 
