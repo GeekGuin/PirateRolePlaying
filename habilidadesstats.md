@@ -51,3 +51,6 @@
 - Empatía &nbsp; &nbsp; &nbsp;        O O O O O (Parecido a intimidación)
 
 //Faltan
+
+
+[id]: pag.com
