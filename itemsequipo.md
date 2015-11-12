@@ -6,7 +6,7 @@ Guantes // 2 manos
 
 Pistolas // 1 mano
 
-Mosquetes // 2 manos (mejor punteria) (6+ el exito)
+Mosquetes // 2 manos (disparo a un cuarto de distancia)
 
 Espadones // 2 manos
 
