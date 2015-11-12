@@ -33,3 +33,4 @@ Intimidación O O O O O
 Negociación O O O O O (Unicamente para comprar)
 Empatía O O O O O (Parecido a intimidación)
 
+//Faltan
