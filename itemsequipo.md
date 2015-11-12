@@ -12,7 +12,7 @@
 
 - Escudos // 1 mano
 
-Cuerdas // 2 manos
+- Cuerdas // 2 manos
 
 
 
