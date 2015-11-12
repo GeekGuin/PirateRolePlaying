@@ -44,7 +44,7 @@ ThrowingPot //Bombas, pociones, etc (req 3 int) //AOE (1d10 / 2 a todos los enem
 5-
 
 
-HABILIDADES FUERA DE PELEA (5 pts regalados) (5 * punto adicional)
+## HABILIDADES FUERA DE PELEA (5 pts regalados) (5 * punto adicional)
 
 Investigación O O O O O
 Percepción O O O O O
