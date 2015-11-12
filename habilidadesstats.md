@@ -22,7 +22,7 @@ Melee //Espadas (req 2 str + 1 dex)
 Gunfire //Pistolas (req 3 dex):
 
 2-
-3-
+3- 
 4- Dual Weild (pas) (solo pistolas)
 5- Doble disparo (act) (8+) (si se tienen 2 pistolas, son 4d10 de daño)
 
