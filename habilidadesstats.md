@@ -20,6 +20,6 @@ Brawl //Puñetazos (req 3 str)
 
 RopeHandling //Cuerdas (req 2 dex + 1 int) (CC. Amarrar stunea)
 
-Shields //Escudos (req 2 str + 1 sta) (Chance de bloqueo/parry)
+Shields //Escudos (req 1 str + 2 sta) (Chance de bloqueo/parry)
 
 ThrowingPot //Bombas, pociones, etc (req 3 int) //AOE (1d10 / 2 a todos los enemigos en la habitacion) (Necesita fabricar las bombas/pociones)
