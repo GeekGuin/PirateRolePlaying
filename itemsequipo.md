@@ -10,7 +10,7 @@
 
 - Espadones // 2 manos
 
-Escudos // 1 mano
+- Escudos // 1 mano
 
 Cuerdas // 2 manos
 
