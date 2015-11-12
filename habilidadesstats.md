@@ -23,8 +23,8 @@ Gunfire //Pistolas (req 3 dex):
 
 2-
 3-
-4-
-5- Doble disparo (act) (8+)
+4- Dual Weild (pas) (solo pistolas)
+5- Doble disparo (act) (8+) (si se tienen 2 pistolas, son 4d10 de daño)
 
 Brawl //Puñetazos (req 3 str)
 
