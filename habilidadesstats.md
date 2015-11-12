@@ -25,6 +25,7 @@
   3. lorem ipsum
   4. Aggro  (act)//mejorar el nombre (cambia la atención de los enemigos durante 1 turno hacia el
   jugador. +1 la estamina durante este turno) (str+sta/2 dados)
+  5. lorem ipsum
 
 - RopeHandling //Cuerdas (req 2 dex + 1 int) (CC. Amarrar stunea)
  2.
