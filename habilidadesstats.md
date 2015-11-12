@@ -15,10 +15,10 @@
 - Melee //Espadas (req 3 str)
 
 - Gunfire //Pistolas (req 3 dex):
-  2. Mejora de punteria (pas) (exito 6+) (solo para el ataque. no skilles)
-  3. Disparo a la cabeza (act) (se tiran dex dados. Si exito, se suma el daño /2 al daño total)
-  4. Dual Weild (pas) (solo pistolas) (cada pistola tiene exito separado)
-  5. Doble disparo (act) (dex dados) (si se tienen 2 pistolas, son 4d10 de daño)
+
+  3 Disparo a la cabeza (act) (se tiran dex dados. Si exito, se suma el daño /2 al daño total) 
+  4- Dual Weild (pas) (solo pistolas) (cada pistola tiene exito separado)
+  5- Doble disparo (act) (dex dados) (si se tienen 2 pistolas, son 4d10 de daño)
 
 - Brawl //Puñetazos (req 2 sta + 1 str)
   2. lorem ipsum
