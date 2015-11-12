@@ -23,7 +23,7 @@ Gunfire //Pistolas (req 3 dex):
 
 2-
 3- Disparo a la cabeza (pas) (crit con 9+)
-4- Dual Weild (pas) (solo pistolas)
+4- Dual Weild (pas) (solo pistolas) (cada pistola tiene exito separado)
 5- Doble disparo (act) (8+) (si se tienen 2 pistolas, son 4d10 de daño)
 
 Brawl //Puñetazos (req 3 str)
