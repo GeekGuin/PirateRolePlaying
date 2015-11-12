@@ -1,6 +1,6 @@
 # Habilidades/Stats
 
-STATS (4 pts regalados)
+STATS (4 pts regalados) (10 * punto adicional)
 
 --Str (fuerza) O O O O O O O O O O
 --Dex (destreza) O O O O O O O O O O
