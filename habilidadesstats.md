@@ -10,7 +10,7 @@ STATS (4 pts regalados) (10 * punto adicional)
 
 
 
-HABILIDADES PELEA
+HABILIDADES PELEA (2 pts regalados) (7 * punto adicional)
 
 Melee //Espadas (req 2 str + 1 dex)
 
