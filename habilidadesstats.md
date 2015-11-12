@@ -25,3 +25,8 @@ Shields //Escudos (req 1 str + 2 sta) (Chance de bloqueo/parry)
 ThrowingPot //Bombas, pociones, etc (req 3 int) //AOE (1d10 / 2 a todos los enemigos en la habitacion) (Necesita fabricar las bombas/pociones)
 
 
+HABILIDADES FUERA DE PELEA (5 pts regalados) (5 * punto adicional)
+
+Investigación O O O O O
+Percepción O O O O O
+Intimidación O O O O O
