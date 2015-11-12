@@ -28,6 +28,10 @@ Gunfire //Pistolas (req 3 dex):
 
 Brawl //Puñetazos (req 3 str)
 
+2-
+3-
+4- Aggro //mejorar el nombre (cambia la atención de los enemigos durante 1 turno hacia el jugador. se dobla la estamina durante este turno) (
+
 RopeHandling //Cuerdas (req 2 dex + 1 int) (CC. Amarrar stunea)
 
 Shields //Escudos (req 1 str + 2 sta) (Chance de bloqueo/parry)
