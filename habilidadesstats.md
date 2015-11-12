@@ -23,7 +23,8 @@
 - Brawl //Puñetazos (req 3 str)
   2. lorem ipsum
   3. lorem ipsum
-  4. Aggro  (act)//mejorar el nombre (cambia la atención de los enemigos durante 1 turno hacia el jugador. +1 la estamina durante este turno) (str+sta/2 dados)
+  4. Aggro  (act)//mejorar el nombre (cambia la atención de los enemigos durante 1 turno hacia el
+  jugador. +1 la estamina durante este turno) (str+sta/2 dados)
 
 RopeHandling //Cuerdas (req 2 dex + 1 int) (CC. Amarrar stunea)
 
