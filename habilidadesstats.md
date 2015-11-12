@@ -2,10 +2,10 @@
 
 STATS (4 pts regalados)
 
-Str (fuerza) O O O O O O O O O O
-Dex (destreza) O O O O O O O O O O
-Int (inteligencia) O O O O O O O O O O
-Sta (estamina) O O O O O O O O O O
+--Str (fuerza) O O O O O O O O O O
+--Dex (destreza) O O O O O O O O O O
+--Int (inteligencia) O O O O O O O O O O
+--Sta (estamina) O O O O O O O O O O
 
 
 
