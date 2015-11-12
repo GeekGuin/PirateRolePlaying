@@ -19,7 +19,7 @@ Gunfire //Pistolas (req 3 dex):
 2-
 3-
 4-
-5- Doble disparo
+5- Doble disparo (act)
 
 Brawl //Puñetazos (req 3 str)
 
@@ -29,8 +29,8 @@ Shields //Escudos (req 1 str + 2 sta) (Chance de bloqueo/parry)
 
 ThrowingPot //Bombas, pociones, etc (req 3 int) //AOE (1d10 / 2 a todos los enemigos en la habitacion) (Necesita fabricar las bombas/pociones):
 
-2- Puede fabricar bombas
-3- Puede fabricar pociones
+2- Puede fabricar bombas (pas)
+3- Puede fabricar pociones (pas)
 4-
 5-
 
