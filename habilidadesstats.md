@@ -9,10 +9,8 @@
 
 ## HABILIDADES PELEA (2 pts regalados) (7 * punto adicional)
 
-
-
-Habilidades pasivas (no se suelta dado)
-Habilidades activas (Se suelta dado y se mide exito)
+#### Habilidades pasivas (no se suelta dado)
+#### Habilidades activas (Se suelta dado y se mide exito)
 
 Melee //Espadas (req 2 str + 1 dex)
 
