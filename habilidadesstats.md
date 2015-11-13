@@ -16,9 +16,9 @@
 
 - Gunfire //Pistolas (req 3 dex):
 
-  3 Disparo a la cabeza (act) (se tiran dex dados. Si exito, se suma el daño /2 al daño total) 
-  4- Dual Weild (pas) (solo pistolas) (cada pistola tiene exito separado)
-  5- Doble disparo (act) (dex dados) (si se tienen 2 pistolas, son 4d10 de daño)
+ - 3: Disparo a la cabeza (act) (se tiran dex dados. Si exito, se suma el daño /2 al daño total) 
+ - 4: Dual Weild (pas) (solo pistolas) (cada pistola tiene exito separado)
+ - 5: Doble disparo (act) (dex dados) (si se tienen 2 pistolas, son 4d10 de daño)
 
 - Brawl //Puñetazos (req 2 sta + 1 str)
   2. lorem ipsum
