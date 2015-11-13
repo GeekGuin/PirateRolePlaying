@@ -27,7 +27,7 @@
   jugador. +1 la estamina durante este turno) (str+sta/2 dados)
   5. lorem ipsum
 
-- RopeHandling //Cuerdas (req 2 dex + 1 int) (CC. Amarrar stunea)
+- RopeHandling //Cuerdas (req 1 dex + 2 int) (CC. Amarrar stunea)
  2. lorem
  3. ipsum
  4. lorem
