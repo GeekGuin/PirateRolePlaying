@@ -5,4 +5,5 @@
 * [Habilidades/Stats](habilidadesstats.md)
 * [Barco](barco.md)
 * [Items/Equipo](itemsequipo.md)
+* Razas
 
