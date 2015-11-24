@@ -16,3 +16,4 @@
 
 
 
+Los items dan "dotes" EJ: bolsa de "pots". 3 pots mas
