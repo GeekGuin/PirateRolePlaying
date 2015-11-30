@@ -72,4 +72,4 @@
 
 # LOS TRIGGERS (SEACORES)
 
-Se manejan por empatia.
+Se manejan por empatia. Los puntos de empatia se ganan cuando se usa mucho un trigger.. Cada trigger tiene su "arbol de habilidades"
