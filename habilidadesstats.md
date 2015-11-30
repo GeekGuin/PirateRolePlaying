@@ -51,3 +51,25 @@
 - Empatía       O O O O O (Parecido a intimidación)
 
 //Faltan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# LOS TRIGGERS (SEACORES)
+
+Se manejan por empatia.
