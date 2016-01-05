@@ -1,0 +1,1 @@
+Atr: Resistencia-Concentracion
