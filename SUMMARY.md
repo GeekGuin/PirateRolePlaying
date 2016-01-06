@@ -27,5 +27,5 @@
 * Reglas
   * [Accesorios](Rules/Accesorios.txt)
   * [Estatus Alterado](Rules/Est_Alt.txt)
-  * [Sistema](Rules/Sistema.txt)
+  * [Sistema](Rules/Sistema.md)
   * [Barco](Rules/barco.md)
