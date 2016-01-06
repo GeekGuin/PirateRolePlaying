@@ -4,7 +4,7 @@ Atr: Int - Concentracion
 
 
 
-Habilidades iniciales:
+## Habilidades iniciales:
 
 -Conocimientos en primeros auxilios: Curacion Xd6 (cd: 2t) d:Int
 
