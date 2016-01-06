@@ -26,5 +26,5 @@
 * Reglas
   * [Accesorios](Rules/Accesorios.md)
   * [Estatus Alterado](Rules/Est_Alt.md)
-  * [Sistema](Reglas/Sistema.md)
+  * [Sistema](Rules/Sistema.md)
   * [barco](Reglas/barco.md)
