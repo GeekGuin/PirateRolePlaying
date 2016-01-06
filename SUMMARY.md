@@ -23,4 +23,5 @@
       * [Bladedancer](Clases/Tanque/Bladedancer.md)
 * [Historia](Historia/Almirantes.md)
 * [Razas](Razas/Razas.md)
-* [Reglas](Historia/Razas.md)
+* Reglas
+  * [Accesorios](Reglas/Accesorios.md)
