@@ -9,4 +9,4 @@
     * [Cuerdero](Clases/Apoyo/Cuerdero.txt)
     * [Musico](Clases/Apoyo/Musico.txt)
   * DPS
-    * [Gunslinger](Clases/Apoyo/Musico.txt)
+    * [Gunslinger](Clases/DPS/Gunslinger.txt)
