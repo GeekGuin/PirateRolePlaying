@@ -15,4 +15,4 @@
   * Tanque
     * [Escudero](Clases/Tanque/Escudero.txt)
       * [Knight](Clases/Tanque/Knight.txt)
-    * [Brawler](Clases/Tanque/Knight.txt)
+    * [Brawler](Clases/Tanque/Brawler.txt)
