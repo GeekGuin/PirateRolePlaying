@@ -13,4 +13,4 @@
     * [Ladron](Clases/DPS/Ladron.txt)
       * [Swordmaster](Clases/DPS/Swordmaster.txt)
   * Tanque
-    * 
+    * [Escudero](
