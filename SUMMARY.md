@@ -6,8 +6,10 @@
   * Apoyo
     * [Academico](Clases/Apoyo/Academico.txt)
     * [Artista](Clases/Apoyo/Artista.txt)
+        * [Musico](Clases/Apoyo/Musico.txt)
     * [Cuerdero](Clases/Apoyo/Cuerdero.txt)
-    * [Musico](Clases/Apoyo/Musico.txt)
+    
   * DPS
     * [Gunslinger](Clases/DPS/Gunslinger.txt)
-    * [Ladron](Clases/DPS/Swordmaster (2 b).txt)
+    * [](Clases/DPS/Swordmaster (2 b).txt)
+    * [
