@@ -18,4 +18,4 @@
     * [Brawler](Clases/Tanque/Brawler.txt)
       * [Morpher](Clases/Tanque/Morpher.txt)
       * [Vikingo](Clases/Tanque/Vikingo.txt)
-    * [Brawler](Clases/Tanque/Brawler.txt)
+    * [Fencer](Clases/Tanque/Brawler.txt)
