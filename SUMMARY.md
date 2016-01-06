@@ -10,3 +10,4 @@
     * [Musico](Clases/Apoyo/Musico.txt)
   * DPS
     * [Gunslinger](Clases/DPS/Gunslinger.txt)
+    * [Ladron](Clases/DPS/Swordmaster (2 b).txt)
