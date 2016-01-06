@@ -16,6 +16,6 @@
     * [Brawler](Clases/Tanque/Brawler.md)
       * [Morpher](Clases/Tanque/Morpher.md)
       * [Vikingo](Clases/Tanque/Vikingo.md)
-    * [Escudero](Clases/Tanque/Brawler.md)
+    * [Escudero](Clases/Tanque/Escudero.md)
       * [Brawler](Clases/Tanque/Brawler.md)
     * [Brawler](Clases/Tanque/Brawler.md)
