@@ -20,4 +20,4 @@
       * [Vikingo](Clases/Tanque/Vikingo.txt)
     * [Fencer](Clases/Tanque/Fencer.txt)
       * [Lancero](Clases/Tanque/Lancero.txt)
-      * [Bladedancer](Clases/Tanque/Fencer.txt)
+      * [Bladedancer](Clases/Tanque/Bladedancer.txt)
