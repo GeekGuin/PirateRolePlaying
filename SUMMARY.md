@@ -17,4 +17,4 @@
       * [Knight](Clases/Tanque/Knight.txt)
     * [Brawler](Clases/Tanque/Brawler.txt)
       * [Morpher](Clases/Tanque/Morpher.txt)
-      * [Vikingo](Clases/Tanque/Brawler.txt)
+      * [Vikingo](Clases/Tanque/Vikingo.txt)
