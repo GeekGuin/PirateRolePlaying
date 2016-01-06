@@ -2,6 +2,7 @@
 
 * [Introduccion](introduccion.md)
 * [Clases](Clases/Clases.md)
+  [La torre](Clases/La_Torre.md)
   * Apoyo
     * [Academico](Clases/Apoyo/Academico.md)
     * [Artista](Clases/Apoyo/Artista.md)
@@ -16,3 +17,4 @@
       * [Morpher](Clases/Tanque/Morpher.md)
       * [Vikingo](Clases/Tanque/Vikingo.md)
     * [Brawler](Clases/Tanque/Brawler.md)
+    * 
