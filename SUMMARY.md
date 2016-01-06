@@ -22,4 +22,4 @@
     * [Fencer](Clases/Tanque/Fencer.txt)
       * [Lancero](Clases/Tanque/Lancero.txt)
       * [Bladedancer](Clases/Tanque/Bladedancer.txt)
-  * 
+* [Historia](Historia/Almirantes.txt)
