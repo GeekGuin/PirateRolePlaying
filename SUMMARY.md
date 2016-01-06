@@ -10,6 +10,6 @@
     * [Cuerdero](Clases/Apoyo/Cuerdero.txt)
   * DPS
     * [Gunslinger](Clases/DPS/Gunslinger.txt)
-    * [Ladron](
+    * [Ladron](Clases/DPS
       * [Swordmaster](Clases/DPS/Swordmaster (2 b).txt)
     
