@@ -24,7 +24,7 @@
 * [Historia](Historia/Almirantes.md)
 * [Razas](Razas/Razas.md)
 * Reglas
-  * [Accesorios](Reglas/Accesorios.md)
+  * [Accesorios](Rules/Accesorios.md)
   * [Estatus Alterado](Reglas/Est_Alt.md)
   * [Sistema](Reglas/Sistema.md)
   * [barco](Reglas/barco.md)
