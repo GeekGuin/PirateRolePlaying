@@ -28,3 +28,4 @@
   * [Accesorios](Rules/Accesorios.txt)
   * [Estatus Alterado](Rules/Est_Alt.txt)
   * [Sistema](Rules/Sistema.txt)
+  * [Barco](Rules/Accesorios.txt)
