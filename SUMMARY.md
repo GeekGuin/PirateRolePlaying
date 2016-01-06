@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [Summary](SUMMARY.md)
+* [Introduccion](README.md)
+* [Indice](SUMMARY.md)
 * Clases
   * Apoyo
     * [Academico](Clases/Apoyo/Academico.txt)
