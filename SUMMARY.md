@@ -12,4 +12,5 @@
     * [Gunslinger](Clases/DPS/Gunslinger.txt)
     * [Ladron](Clases/DPS/Ladron.txt)
       * [Swordmaster](Clases/DPS/Swordmaster.txt)
-    
+  * Tanque
+  * 
