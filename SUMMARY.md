@@ -6,7 +6,7 @@
   * Apoyo
     * [Academico](Clases/Apoyo/Academico.txt)
     * [Artista](Clases/Apoyo/Artista.txt)
-        * [Musico](Clases/Apoyo/Musico.txt)
+      * [Musico](Clases/Apoyo/Musico.txt)
     * [Cuerdero](Clases/Apoyo/Cuerdero.txt)
     
   * DPS
