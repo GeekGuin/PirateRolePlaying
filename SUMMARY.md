@@ -25,3 +25,4 @@
 * [Razas](Razas/Razas.md)
 * Reglas
   * [Accesorios](Reglas/Accesorios.md)
+  * [Estatus Alterado](Reglas/Accesorios.md)
