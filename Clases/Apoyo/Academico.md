@@ -1,6 +1,6 @@
 Arma: Libro con todos los conocimientos leidos, bien ordenado y facil para el de usar.
 
-Atr: Int - Concentracion
+Atr: Int - Concentración
 
 
 
