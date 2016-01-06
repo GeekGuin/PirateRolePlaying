@@ -4,4 +4,4 @@
 * [Clases](Clases/Clases.md)
     * [Apoyo]
       * [Academico](Clases/Apoyo/Academico.md)
-      * [Artista]()
+      * [Artista](Clases/Apoyo/Artista.md)
