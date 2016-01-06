@@ -18,4 +18,4 @@
       * [Vikingo](Clases/Tanque/Vikingo.md)
     * [Escudero](Clases/Tanque/Escudero.md)
       * [Knight](Clases/Tanque/Knight.md)
-    * [Brawler](Clases/Tanque/Brawler.md)
+    * [Fencer](Clases/Tanque/Fencer.md)
