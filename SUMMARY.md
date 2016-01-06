@@ -12,4 +12,4 @@
     * [Ladron](Clases/Dps/Ladron.md)
       * [Swordmaster](Clases/Dps/Swordmaster.md)
   * Tanque
-    * [Brawler](
+    * [Brawler](Clases/Tanque/Brawler.md)
