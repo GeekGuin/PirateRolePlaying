@@ -7,3 +7,6 @@
     * [Artista](Clases/Apoyo/Artista.md)
       * [Musico](Clases/Apoyo/Musico.md)
     * [Cuerdero](Clases/Apoyo/Cuerdero.md)
+  * [DPS]
+    * [Ladron](Clases/Apoyo/Ladron.md)
+      * [Swordmaster](Clases/Apoyo/Swordmaster.md)
