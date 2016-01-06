@@ -3,5 +3,5 @@
 * [Introduccion](introduccion.md)
 * [Clases](Clases/Clases.md)
     * [Apoyo]
-      * [Academico](Clases/Apoyo/Artista.md)
+      * [Academico](Clases/Apoyo/Academico.md)
       * [Artista]()
