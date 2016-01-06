@@ -25,6 +25,6 @@
 * [Razas](Razas/Razas.md)
 * Reglas
   * [Accesorios](Rules/Accesorios.md)
-  * [Estatus Alterado](Reglas/Est_Alt.md)
+  * [Estatus Alterado](Rules/Est_Alt.md)
   * [Sistema](Reglas/Sistema.md)
   * [barco](Reglas/barco.md)
