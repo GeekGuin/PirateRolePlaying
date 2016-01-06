@@ -11,4 +11,4 @@
   * DPS
     * [Gunslinger](Clases/DPS/Gunslinger.txt)
     * [](Clases/DPS/Swordmaster (2 b).txt)
-    * [
+    * [Ladron
