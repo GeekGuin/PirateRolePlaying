@@ -2,7 +2,7 @@
 
 * [Introduccion](README.md)
 * [Indice](SUMMARY.md)
-* Clases
+* [Clases](Clases/Clases.txt)
   * Apoyo
     * [Academico](Clases/Apoyo/Academico.txt)
     * [Artista](Clases/Apoyo/Artista.txt)
