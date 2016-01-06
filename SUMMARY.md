@@ -13,3 +13,5 @@
       * [Swordmaster](Clases/Dps/Swordmaster.md)
   * Tanque
     * [Brawler](Clases/Tanque/Brawler.md)
+      * [Morpher](Clases/Tanque/Morpher.md)
+    * [Brawler](Clases/Tanque/Brawler.md)
