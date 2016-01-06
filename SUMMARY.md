@@ -24,3 +24,4 @@
       * [Bladedancer](Clases/Tanque/Bladedancer.txt)
 * [Historia](Historia/Almirantes.txt)
 * [Razas](Historia/Razas.txt)
+* Rules
