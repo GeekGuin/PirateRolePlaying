@@ -20,4 +20,4 @@
       * [Knight](Clases/Tanque/Knight.md)
     * [Fencer](Clases/Tanque/Fencer.md)
       * [Lancero](Clases/Tanque/Lancero.md)
-      * [Brawler](Clases/Tanque/Bladedancer.md)
+      * [Bladedancer](Clases/Tanque/Bladedancer.md)
