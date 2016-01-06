@@ -2,17 +2,17 @@
 
 * [Introduccion](README.md)
 * [Indice](SUMMARY.md)
-* [Clases](Clases/Clases.txt)
-  * [La Torre](Clases/La_Torre.txt)
+* [Clases](Clases/Clases.md)
+  * [La Torre](Clases/La_Torre.md)
   * Apoyo
-    * [Academico](Clases/Apoyo/Academico.txt)
-    * [Artista](Clases/Apoyo/Artista.txt)
-      * [Musico](Clases/Apoyo/Musico.txt)
-    * [Cuerdero](Clases/Apoyo/Cuerdero.txt)
+    * [Academico](Clases/Apoyo/Academico.md)
+    * [Artista](Clases/Apoyo/Artista.md)
+      * [Musico](Clases/Apoyo/Musico.md)
+    * [Cuerdero](Clases/Apoyo/Cuerdero.md)
   * DPS
-    * [Gunslinger](Clases/DPS/Gunslinger.txt)
-    * [Ladron](Clases/DPS/Ladron.txt)
-      * [Swordmaster](Clases/DPS/Swordmaster.txt)
+    * [Gunslinger](Clases/DPS/Gunslinger.md)
+    * [Ladron](Clases/DPS/Ladron.md)
+      * [Swordmaster](Clases/DPS/Swordmaster.md)
   * Tanque
     * [Escudero](Clases/Tanque/Escudero.txt)
       * [Knight](Clases/Tanque/Knight.txt)
