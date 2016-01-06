@@ -19,4 +19,4 @@
       * [Morpher](Clases/Tanque/Morpher.txt)
       * [Vikingo](Clases/Tanque/Vikingo.txt)
     * [Fencer](Clases/Tanque/Fencer.txt)
-      * [Lancero](Clases/Tanque/Fencer.txt)
+      * [Lancero](Clases/Tanque/Lancero.txt)
