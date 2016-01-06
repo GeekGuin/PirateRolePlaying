@@ -25,4 +25,4 @@
 * [Historia](Historia/Almirantes.txt)
 * [Razas](Historia/Razas.txt)
 * Reglas
-  * [Accesorios](Historia/Almirantes.txt)
+  * [Accesorios](Rules/Almirantes.txt)
