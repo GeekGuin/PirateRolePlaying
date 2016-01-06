@@ -8,8 +8,8 @@
       * [Musico](Clases/Apoyo/Musico.md)
     * [Cuerdero](Clases/Apoyo/Cuerdero.md)
   * DPS
-    * [Gunslinger](Clases/Apoyo/Gunslinger.md)
-    * [Ladron](Clases/Apoyo/Ladron.md)
-      * [Swordmaster](Clases/Apoyo/Swordmaster.md)
+    * [Gunslinger](Clases/Dps/Gunslinger.md)
+    * [Ladron](Clases/Dps/Ladron.md)
+      * [Swordmaster](Clases/Dps/Swordmaster.md)
   * Tanque
-    * [Brawler]
+    * [Brawler](
