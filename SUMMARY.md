@@ -22,4 +22,5 @@
       * [Lancero](Clases/Tanque/Lancero.md)
       * [Bladedancer](Clases/Tanque/Bladedancer.md)
 * [Historia](Historia/Almirantes.md)
+* [Razas](Razas/Razas.md)
 * [Razas](Historia/Razas.md)
