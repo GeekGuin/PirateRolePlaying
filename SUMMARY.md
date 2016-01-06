@@ -21,3 +21,4 @@
     * [Fencer](Clases/Tanque/Fencer.md)
       * [Lancero](Clases/Tanque/Lancero.md)
       * [Bladedancer](Clases/Tanque/Bladedancer.md)
+* [Historia](Historia/Almirantes.md)
