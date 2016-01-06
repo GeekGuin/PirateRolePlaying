@@ -12,4 +12,4 @@
     * [Ladron](Clases/Apoyo/Ladron.md)
       * [Swordmaster](Clases/Apoyo/Swordmaster.md)
   * Tanque
-    * []
+    * [Brawler]
