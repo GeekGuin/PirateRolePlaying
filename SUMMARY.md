@@ -26,4 +26,4 @@
 * [Razas](Historia/Razas.txt)
 * Reglas
   * [Accesorios](Rules/Accesorios.txt)
-  * [Estatus Alterado](Rules/Accesorios.txt)
+  * [Estatus Alterado](Rules/Est_Alt.txt)
