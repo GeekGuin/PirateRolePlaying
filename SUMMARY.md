@@ -14,4 +14,4 @@
       * [Swordmaster](Clases/DPS/Swordmaster.txt)
   * Tanque
     * [Escudero](Clases/Tanque/Escudero.txt)
-      * [Knight](Clases/Tanque/Escudero.txt)
+      * [Knight](Clases/Tanque/Knight.txt)
