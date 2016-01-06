@@ -6,4 +6,4 @@
         * [Academico](Clases/Apoyo/Academico.txt)
         * [Artista](Clases/Apoyo/Artista.txt)
         * [Cuerdero](Clases/Apoyo/Cuerdero.txt)
-        * [Musico](Clases/Apoyo/Academico.txt)
+        * [Musico](Clases/Apoyo/Musico.txt)
